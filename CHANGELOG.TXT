@@ -1,0 +1,5 @@
+Implementazione di una coda che prevede il meccanismo di copia e distruzione del dato.
+
+CHANGELOG:
+27/03/2017: E' stata aggiunta la funzionalità che prevede il meccanismo di copia e distruzione del dato (Versione 1);
+27/03/2017: Testata con valgrind, non sono stati rilevati memory leaks (Versione 1);
